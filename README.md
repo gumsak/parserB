@@ -1,6 +1,6 @@
 # parserB
 
-Parse a text and put tags to mark the beginning and the end of each sentence, title, etc...
+Parse a text and put tags (here '<p>' and '</p>') to mark the beginning and the end of each sentence, title, etc...
 
 
 1. You can modify the source file at the 11th line of the code :
