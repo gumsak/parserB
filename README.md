@@ -3,12 +3,10 @@
 Parse a text and put tags to mark the beginning and the end of each sentence, title, etc...
 
 
-1.You can modify the source file at the 11th line of the code :
-
+1. You can modify the source file at the 11th line of the code :
 	- By default, "descartes.txt" will be read. 
 
-2.You can also change the destination file at line 13 :
-
+2. You can also change the destination file at line 13 :
 	- By default it will be named "dest.xml".
 
 
